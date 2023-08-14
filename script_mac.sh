@@ -25,6 +25,10 @@
 # Problemas que possivelmente podem ocorrer:
 # Duas pessoas se conectando ao mesmo tempo talvez o script nao funcione conforme o esperado
 
+# Problems that may possibly occur:
+# Two people connecting at the same time the script may not work as expected
+
+
 # LEMBRE-SE:
 # No server.conf deve conter "script-security 2" e "client-connect /etc/openvpn/script_mac.sh"
 # Lembrar de dar chmod +x script_mac.sh
